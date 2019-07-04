@@ -15,7 +15,8 @@
     "nedb": "^1.8.0",
     "node-fetch": "^2.6.0",
     "path": "^0.12.7",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11",
+    "websocket": "^1.0.29"
   },
   "main": "index.js",
   "license": "MIT",
